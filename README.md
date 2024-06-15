@@ -2,9 +2,9 @@
 
 I tested three different algorithms to find prime number between 1 - n.
 
-1. [Trial Division](trial_division.ts)
-2. [Sieve of Eratosthenes](sieve_of_eratosthenes.ts)
-3. [Dijkstra's Approach](dijkstra.ts)
+1. [Trial Division](src/trial_division.ts)
+2. [Sieve of Eratosthenes](src/sieve_of_eratosthenes.ts)
+3. [Dijkstra's Approach](src/dijkstra.ts)
 
 ### Results
 > Note: Tested in Bun v1.1.13 runtime.
